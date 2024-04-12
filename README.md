@@ -4,7 +4,7 @@
    <br><br>
   
   <br>
-  <img width="400" src="https://taylor.boards.net/post/15809/thread" />
+  <img width="400" src="https://imgur.com/1DnJgVw" />
   <br>
 </div>
 
