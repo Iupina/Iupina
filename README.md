@@ -4,7 +4,7 @@
    <br><br>
   
   <br>
-  <img width="400" src="https://wifflegif.com/gifs/89495-taylor-swift-taylor-gif" />
+  <img width="400" src="https://taylor.boards.net/post/15809/thread" />
   <br>
 </div>
 
