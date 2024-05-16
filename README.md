@@ -17,7 +17,6 @@
  
  <br>
  
- ## Welcome to my profile! 😄 🇺🇸
 
  <h3> About me </h3>
  
