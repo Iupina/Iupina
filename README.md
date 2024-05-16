@@ -1,6 +1,6 @@
 ## Hello, World! 👋
 <div style="display: inline_block" align="center">
-   Jaqueline Cristine Rosa 
+   SAP ABAP Developer 
    <br><br>
   
   <br>
@@ -8,15 +8,23 @@
   <br>
 </div>
 
-## 👨‍💻 About Me
+<h3> Sobre mim </h3>
 
+ <p>👨🏻‍💻 Iniciando minha carreira como SAP ABAP Developer.</p>
+ <p>🎓 Cursando Ciência da Computação na Estácio - 5º semestre.</p>
+ <p>💼 Trabalho atualmente como estágiaria na Caixa Econômica Federal.</p>
+ <p>🌎 Brasília, DF - Brasil.</p>
+ 
+ <br>
+ 
+ ## Welcome to my profile! 😄 🇺🇸
 
-
-## 🛠️ Technologies and Tools
-
-
-
-## 📈 GitHub Stats
+ <h3> About me </h3>
+ 
+ <p>👨🏻‍💻 Starting my career as a SAP ABAP Developer.</p>
+ <p>🎓 Studying Computer Science at Estácio - 5º semester..</p>
+ <p>💼 I currently work as an intern at Caixa Econômica Federal.</p>
+ <p>🌎 Brasília, DF - Brasil.</p>
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Iupina&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Iupina&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Iupina&theme=nord_dark) |
 | :-: | :-: | :-: |
