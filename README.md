@@ -1,6 +1,6 @@
 ## Hello, World! 👋
 <div style="display: inline_block" align="center">
-   SAP ABAP Developer - Swiftie
+   SAP ABAP Developer 
    <br><br>
   
   <br>
