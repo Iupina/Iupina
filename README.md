@@ -22,7 +22,7 @@
  <h3> About me </h3>
  
  <p>👨🏻‍💻 Starting my career as a SAP ABAP Developer.</p>
- <p>🎓 Studying Computer Science at Estácio - 5º semester..</p>
+ <p>🎓 Studying Computer Science at Estácio - 5º semester.</p>
  <p>💼 I currently work as an intern at Caixa Econômica Federal.</p>
  <p>🌎 Brasília, DF - Brasil.</p>
 
