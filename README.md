@@ -15,8 +15,6 @@
  <p>💼 Trabalho atualmente como estágiaria na Caixa Econômica Federal.</p>
  <p>🌎 Brasília, DF - Brasil.</p>
  
- <br>
- 
  <h3> About me </h3>
  
  <p>👨🏻‍💻 Starting my career as a SAP ABAP Developer.</p>
