@@ -1,4 +1,3 @@
-## Hello, World! 👋
 <div style="display: inline_block" align="center">
    SAP ABAP Developer 
    <br><br>
