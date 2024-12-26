@@ -11,7 +11,7 @@
 
  <p>👨🏻‍💻 Iniciando minha carreira como SAP ABAP Developer.</p>
  <p>🎓 Cursando Ciência da Computação na Estácio - 6º semestre.</p>
- <p>💼 Estou procurando por uma relocação.</p>
+ <p>💼 Estou procurando por uma recolocação.</p>
  <p>🌎 Brasília, DF - Brasil.</p>
  
  <h3> About me </h3>
