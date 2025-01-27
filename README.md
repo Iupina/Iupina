@@ -10,14 +10,14 @@
 <h3> Sobre mim </h3>
 
  <p>👨🏻‍💻 Iniciando minha carreira como SAP ABAP Developer.</p>
- <p>🎓 Cursando Ciência da Computação na Estácio - 6º semestre.</p>
+ <p>🎓 Cursando Ciência da Computação na Estácio - 7º semestre.</p>
  <p>💼 Estou procurando por uma recolocação.</p>
  <p>🌎 Brasília, DF - Brasil.</p>
  
  <h3> About me </h3>
  
  <p>👨🏻‍💻 Starting my career as a SAP ABAP Developer.</p>
- <p>🎓 Studying Computer Science at Estácio - 6º semester.</p>
+ <p>🎓 Studying Computer Science at Estácio - 7º semester.</p>
  <p>💼 I'm looking for a relocation.</p>
  <p>🌎 Brasília, DF - Brasil.</p>
 
