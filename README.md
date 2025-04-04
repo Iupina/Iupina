@@ -5,9 +5,8 @@
   <br>
   <img width="400" src="https://media.tumblr.com/tumblr_lzcugszYUI1qj47oz.gif" />
   <br>
+  <h5> Agradeço à minha rainha Taylor Swift por me lembrar que mesmo nas eras mais difíceis, sempre há espaço para um "Begin Again".</h5>
 </div>
-
-<h5> Agradeço à minha rainha Taylor Swift por me lembrar que mesmo nas eras mais difíceis, sempre há espaço para um "Begin Again".</h5>
 
 <h3> Sobre mim </h3>
 
