@@ -7,6 +7,8 @@
   <br>
 </div>
 
+<h5> Agradeço à minha rainha Taylor Swift por me lembrar que mesmo nas eras mais difíceis, sempre há espaço para um "Begin Again".</h5>
+
 <h3> Sobre mim </h3>
 
  <p>👨🏻‍💻 Iniciando minha carreira como SAP ABAP Developer.</p>
