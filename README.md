@@ -11,8 +11,8 @@
  <br><br>
 
  <h3> Sobre mim:</h3>
- <p>Tenho 28 anos, estudante de Ciência da Computação (8º semestre) e apaixonada pelo universo SAP 💙!. Atuei por dois anos como estagiária na Caixa Econômica Federal, onde tive contato com o SAP ECC, especialmente com o módulo HCM e o desenvolvimento ABAP. Nesse      período, participei de demandas envolvendo criação de ALVs, desenvolvimento de classes, funções, APIs REST e análise de especificações técnicas, além de colaborar com diferentes equipes.
-    Embora não tenha atuado diretamente com SAP BTP durante o estágio, sempre demonstrei interesse pelas novas tecnologias do ecossistema SAP. Busquei, por conta própria, estudar temas como SAP Fiori, BTP, CAP e Integration Suite, mantendo-me atualizada e engajada 
+ <p>Tenho 28 anos, estudante de Ciência da Computação (8º semestre) e apaixonada pelo universo SAP 💙!. Atuei por dois anos como estagiária na Caixa Econômica Federal, onde tive contato com o SAP ECC, especialmente com o módulo HCM e o desenvolvimento ABAP. Nesse      período, participei de demandas envolvendo criação de ALVs, desenvolvimento de classes, funções, APIs REST e análise de especificações técnicas, além de colaborar com diferentes equipes.</p>
+ <p>Embora não tenha atuado diretamente com SAP BTP durante o estágio, sempre demonstrei interesse pelas novas tecnologias do ecossistema SAP. Busquei, por conta própria, estudar temas como SAP Fiori, BTP, CAP e Integration Suite, mantendo-me atualizada e engajada 
     com as tendências do mercado.</p>
  
  <h3>Atualmente, estudo tecnologias como:</h3>
