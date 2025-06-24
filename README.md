@@ -8,19 +8,24 @@
   <h5> Agradeço à minha rainha Taylor Swift por me lembrar que mesmo nas eras mais difíceis, sempre há espaço para um "Begin Again".</h5>
 </div>
 
-<h3> Sobre mim </h3>
+ <br><br>
 
- <p>👨🏻‍💻 Iniciando minha carreira como SAP ABAP Developer.</p>
- <p>🎓 Cursando Ciência da Computação na Estácio - 7º semestre.</p>
- <p>💼 Estou procurando por uma recolocação.</p>
- <p>🌎 Brasília, DF - Brasil.</p>
+ <h3> Sobre mim </h3>
+ <p>Estudante de Ciência da Computação (8º semestre) e apaixonada pelo universo SAP! 💙</p>  
+ <p>Tenho experiência com ABAP no SAP ECC, incluindo desenvolvimento de relatórios, APIs via SICF e manutenção de sistemas no módulo HCM.</p>
+
+ <br><br>
  
- <h3> About me </h3>
- 
- <p>👨🏻‍💻 Starting my career as a SAP ABAP Developer.</p>
- <p>🎓 Studying Computer Science at Estácio - 7º semester.</p>
- <p>💼 I'm looking for a relocation.</p>
- <p>🌎 Brasília, DF - Brasil.</p>
+ <h3>Atualmente, estudo tecnologias como:</h3>
+ <p> - SAP ABAP</p>
+ <p> - SAP BTP</p>
+ <p> - SAP CAP & RAP</p>
+ <p> - SAP Fiori/UI5</p>
+ <p> - SAP HCM & SucessFactors</p>
+ <p> - SAP ECC & S/4HANA</p>
+ <p> - SAP Hana</p>
+
+ <br><br>
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Iupina&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Iupina&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Iupina&theme=nord_dark) |
 | :-: | :-: | :-: |
@@ -30,5 +35,4 @@
 
 ## 📫 How to Reach Me
 
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lupina.gap/)
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lupinagap/)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jaquelinecristinerosa/)
